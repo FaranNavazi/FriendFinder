@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+node_modules
+last.sql
+.build
+database.json
+.vscode
+.zip
+.temp
+yarn-error.log
+.env
